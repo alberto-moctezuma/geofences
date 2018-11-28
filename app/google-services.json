@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "600040822305",
+    "firebase_url": "https://geofences-84ef5.firebaseio.com",
+    "project_id": "geofences-84ef5",
+    "storage_bucket": "geofences-84ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600040822305:android:0613465a83515832",
+        "android_client_info": {
+          "package_name": "udg.mxc.geofences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600040822305-1fg4sa2roklr89cvk0vi5nfirn6gcb0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "udg.mxc.geofences",
+            "certificate_hash": "86d8f3317a0089c8b76f96837597efef075973f8"
+          }
+        },
+        {
+          "client_id": "600040822305-h989goompee6n1m506e1q9ibkg9hm9r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz29Dnj1LJHGkEyPtQjDtbjlueLD_x0Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600040822305-h989goompee6n1m506e1q9ibkg9hm9r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
